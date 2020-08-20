@@ -1,0 +1,7 @@
+错误 ModuleNotFoundError: No module named 'skbuild'
+1,安装cmake
+
+sudo apt install cmake
+
+
+pip3 install scikit-build
